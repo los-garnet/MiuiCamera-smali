@@ -210,7 +210,7 @@
 
 .field public static final d1:Ljava/lang/String; = "com.miui.securitycenter.action.INVISIBLE_SETTING"
 
-.field public static final e:Ljava/lang/String; = "com.android.camera.action.REVIEW"
+.field public static final e:Ljava/lang/String; = "android.provider.action.REVIEW"
 
 .field public static final e0:I = 0x8c36
 
